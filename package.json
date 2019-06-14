@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "shadow-cljs": "^2.8.39"
+  },
+  "dependencies": {
+    "create-react-class": "^15.6.3",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "escher.js": "0.1.1"
+  }
+}
